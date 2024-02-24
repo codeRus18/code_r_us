@@ -13,12 +13,14 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('C:\Users\User\Desktop\poze idk/bogdan mil atinge navem background.jpg') no-repeat;
+    background: url('ok nu punem numele asta.jpg') no-repeat ;
+    background-size: cover;
+    background-position: center;
 }
 
 .wrapper {
     width: 420px;
-    background: purple;
+    background: transparent;
     color: #fff;
     border-radius: 10px;
     padding: 30px 40px;
